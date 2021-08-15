@@ -1,0 +1,25 @@
+{
+  "name": "dsa-programs",
+  "version": "1.0.0",
+  "description": "A collection of common programming problems solved using javascript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajulthomas/dsa-programs.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "ajulthomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajulthomas/dsa-programs/issues"
+  },
+  "homepage": "https://github.com/ajulthomas/dsa-programs#readme",
+  "devDependencies": {
+    "jasmine": "^3.8.0"
+  }
+}
